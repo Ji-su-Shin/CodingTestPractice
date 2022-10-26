@@ -1,4 +1,4 @@
-## 재귀함수 예제
+# 재귀함수 예제
 
 def recursive_func():
     print('재귀함수')
